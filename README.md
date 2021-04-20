@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+#🔭 currently working on an chat app ...
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utsav-Virani&hide=contribs,prs)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Utsav-Virani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **Utsav-Virani/Utsav-Virani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
