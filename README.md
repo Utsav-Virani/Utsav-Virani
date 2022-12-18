@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 currently working on an chat app ...
+<!-- 🔭 currently working on an chat app ... -->
 <br />
 👯 I’m looking to collaborate on Flutter, ReactJS ...
 
