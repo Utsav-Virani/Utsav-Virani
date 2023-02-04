@@ -21,8 +21,8 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utsav-Virani&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsav-Virani&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utsav-Virani&show_icons=true&theme=react" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsav-Virani&theme=react" />
 </p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Utsav-Virani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -31,7 +31,7 @@
  -->
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 <!-- https://skyline.github.com/utsav-virani/2020 -->
 
