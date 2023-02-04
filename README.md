@@ -11,7 +11,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	[!(https://github-readme-activity-graph.cyclic.app/graph?username=Utsav-Virani)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	https://github-readme-activity-graph.cyclic.app/graph?username=Utsav-Virani&theme=react
 </p>
 
 ## 💳 Github Profile Summary Card
