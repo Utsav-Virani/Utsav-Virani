@@ -11,7 +11,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Utsav-Virani&theme=react" />
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Utsav-Virani&theme=react" alt="Utsav Virani's Contribution Graph" />
 </p>
 
 ## 💳 Github Profile Summary Card
