@@ -11,7 +11,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Utsav-Virani&theme=minimal"/>
+	[!(https://github-readme-activity-graph.cyclic.app/graph?username=Utsav-Virani)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ## 💳 Github Profile Summary Card
