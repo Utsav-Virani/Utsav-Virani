@@ -16,7 +16,8 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav-Virani&theme=react"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav-Virani&theme=nord_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utsav-Virani&theme=nord_dark"/>
 </p>
 
 ## 📟 GitHub Stats
